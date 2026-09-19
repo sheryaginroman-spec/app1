@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp6.Generation
+{
+    internal class Singleton
+    {
+        public static void Run()
+        {
+        
+            Class1 class1 = new Class1();
+            Class2 class2 = new Class2();   
+
+        }
+    }
+}
